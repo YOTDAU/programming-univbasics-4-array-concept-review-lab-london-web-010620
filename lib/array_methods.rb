@@ -32,4 +32,5 @@ end
 
 #could use 
 # array.index(value_to_find)
-# array.idex
+# array.max 
+# array.min 
