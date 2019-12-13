@@ -28,3 +28,7 @@ def find_min_value(array)
   }
   n 
 end
+
+
+#could use 
+# array.index
