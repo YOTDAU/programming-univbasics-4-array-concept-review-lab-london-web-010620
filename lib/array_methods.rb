@@ -31,4 +31,5 @@ end
 
 
 #could use 
-# array.index
+# array.index(value_to_find)
+# array.idex
